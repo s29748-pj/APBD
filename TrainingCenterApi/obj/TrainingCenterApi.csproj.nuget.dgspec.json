@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Studia\\TrainingCenterApi\\TrainingCenterApi.csproj": {}
+    "c:\\Users\\andrz\\PcApi\\TrainingCenterApi\\TrainingCenterApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Studia\\TrainingCenterApi\\TrainingCenterApi.csproj": {
+    "c:\\Users\\andrz\\PcApi\\TrainingCenterApi\\TrainingCenterApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Studia\\TrainingCenterApi\\TrainingCenterApi.csproj",
+        "projectUniqueName": "c:\\Users\\andrz\\PcApi\\TrainingCenterApi\\TrainingCenterApi.csproj",
         "projectName": "TrainingCenterApi",
-        "projectPath": "C:\\Users\\Studia\\TrainingCenterApi\\TrainingCenterApi.csproj",
-        "packagesPath": "C:\\Users\\Studia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Studia\\TrainingCenterApi\\obj\\",
+        "projectPath": "c:\\Users\\andrz\\PcApi\\TrainingCenterApi\\TrainingCenterApi.csproj",
+        "packagesPath": "C:\\Users\\andrz\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\andrz\\PcApi\\TrainingCenterApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Studia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\andrz\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.420/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.421/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
